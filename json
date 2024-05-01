@@ -1,0 +1,27 @@
+[
+    {
+        "domain": ".whatsapp.com",
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "wa_csrf",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": true,
+        "storeId": null,
+        "value": "KxhXx02xwhiwaKyFLA9ZPs"
+    },
+    {
+        "domain": ".web.whatsapp.com",
+        "expirationDate": 1716960609,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "wa_web_lang_pref",
+        "path": "/",
+        "sameSite": null,
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "en_GB"
+    }
+]
